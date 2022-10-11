@@ -1,0 +1,9 @@
+Just some quick recap of what I study everyday
+1. h1 tag , h2 tag , h3 tag and <p></p> tag
+2. img does not have a closing tag
+use it like this <img src =" " width = "100%>
+usually css is used to adjusting the image but width can be used as well
+3. div is used to segregate a section in an HTML file helpful when it comes to css tags
+4. you can drag a html file directly into browser to open it
+5. anchor tag is used to create links insidee an html file
+6.
