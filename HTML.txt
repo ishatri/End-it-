@@ -6,4 +6,14 @@ usually css is used to adjusting the image but width can be used as well
 3. div is used to segregate a section in an HTML file helpful when it comes to css tags
 4. you can drag a html file directly into browser to open it
 5. anchor tag is used to create links insidee an html file
-6.
+6. alternating websites using html and inspct element
+7. <button> tag to make up a signup page but that is pretty useless without input tag
+8. input tag behaves just like img tag and has no closing brackets and we use placeholder to specify what kind of information we are supposed to enter there
+9. a bit more about the input tag 
+<input type=" can be username for username and password when entering passwords" placeholder = "password/username">
+type can be time, color, date
+10. <input type="file"> cann be used to upload files in html
+11. when it comes to anchor tag the basic syntax to use it is given as follow
+<a href="https.google.com">
+sometimes we wnt the site mentioned by anchor tag to open in another tab for that after href and link just enter target="_blank"
+<a href = "websute name" target = "_blank"> the word which serves as the hyperlink </a>
