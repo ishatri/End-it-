@@ -1,0 +1,12 @@
+1. An HTML DOM is divided into head and body two parts
+2. link is used to reference the css sheet hence used in the head and never in the body.
+3. <head> metadata , script, styles ,title etc
+4. <body> the tags you see on the page
+5. <html>
+<head>
+</head>
+<body>
+</body>
+</html>
+6. <!doctype html> tells the version we are using html 5 and not any older version of html , used before the html tag
+7.
