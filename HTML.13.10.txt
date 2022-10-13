@@ -1,1 +1,2 @@
-
+1. <ol> the ordered list and inside it we use <li> 
+<uol>is used for creating unorderd list
