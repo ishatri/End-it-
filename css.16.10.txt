@@ -1,0 +1,7 @@
+1. css always resides in the head
+2. <link rel="stylesheet" href= "styles.css"/>
+now here the stylesheet. is the reltionship to html ie stylesheet is connected to the head , and it resides in styles.css.
+3.css works by selecting certain element of the html and then styling them according ton our wants
+4. tag name {
+            color: red;
+            }
